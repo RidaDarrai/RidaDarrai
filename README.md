@@ -12,5 +12,5 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/RidaDarrai">github</a> &nbsp;/&nbsp; <a href="https://linkedin.com/in/ridadarrai">linkedin</a> &nbsp;/&nbsp; <a href="mailto:darrairida@gmail.com">email</a>
+<a href="https://github.com/RidaDarrai">github</a> &nbsp;/&nbsp; <a href="https://linkedin.com/in/darrai-rida">linkedin</a> &nbsp;/&nbsp; <a href="mailto:ridadarraiprofessional@gmail.com">email</a>
 </p>

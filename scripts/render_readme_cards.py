@@ -299,7 +299,7 @@ def activity(data):
 REPO_W, REPO_H = 880 / 3 - 8, 176
 REPOS = [
     ("chat-application", "A multi-client chat app built with Java sockets and a Swing GUI.", "Java", TECH),
-    ("Brain-Bench", "A playground for benchmarking AI and software ideas, one experiment at a time.", "TypeScript", STUDIO),
+    ("Brain-Bench", "A 100% client-side platform of cognitive tests with local progress and JSON export.", "TypeScript", STUDIO),
     ("The-inverted-pendulum", "The classic control-theory problem, simulated and brought to life.", "JavaScript", LEARN),
 ]
 REPO_PATHS = {
